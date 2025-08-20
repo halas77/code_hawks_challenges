@@ -1,0 +1,2 @@
+- centeralization risk
+- timestamp manipulation
